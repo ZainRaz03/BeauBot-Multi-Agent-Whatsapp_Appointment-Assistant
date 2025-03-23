@@ -26,7 +26,8 @@ BeauBot integrates various components:
 ### Cloning the Repository
 Start by cloning the BeauBot repository to your local machine.
 
-https://github.com/ZainRaz04/BeauBot-Multi-Agent-Whatsapp_Appointment-Assistant.git
+git clone https://github.com/ZainRaz04/BeauBot-Multi-Agent-Whatsapp_Appointment-Assistant.git
+
 
 cd beaubot
 
