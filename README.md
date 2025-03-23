@@ -35,8 +35,11 @@ cd beaubot
 Create a `.env` file in the root directory of your project and populate it with your Twilio and Google API credentials:
 
 GOOGLE_API_KEY=your_google_api_key
+
 TWILIO_ACCOUNT_SID=your_twilio_account_sid
+
 TWILIO_AUTH_TOKEN=your_twilio_auth_token
+
 WHATSAPP_NUMBER=your_whatsapp_number
 
 
